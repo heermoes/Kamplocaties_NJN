@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "warehouse",
         "Site": "www.njn.nl",
         "Prijs": "2000 euries",
         "Plaats": "Abcoude",
