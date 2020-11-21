@@ -1,0 +1,6421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Abcoude",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.977,
+          52.2785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Akkrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84361,
+          53.0463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Alkmaar",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73971,
+          52.6377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Alkmaar Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76416,
+          52.6438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almelo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65388,
+          52.358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almelo de Riet",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66666,
+          52.3419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almere Buiten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27806,
+          52.3941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almere Centrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21763,
+          52.375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almere Muziekwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19028,
+          52.3674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almere Oostvaarders",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.30055,
+          52.4033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almere Parkwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.24472,
+          52.3766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Alphen a/d Rijn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65778,
+          52.1244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amersfoort Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37152,
+          52.1536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amersfoort Schothorst",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40388,
+          52.1748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amersfoort Vathorst",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43388,
+          52.1927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Amstel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91777,
+          52.3466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Arena",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94221,
+          52.3166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Bijlmer ArenA",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94729,
+          52.312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90027,
+          52.3788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Holendrecht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.96009,
+          52.298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Lelylaan",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83389,
+          52.3577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Muiderpoort",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93111,
+          52.3605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam RAI",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89027,
+          52.3372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Science Park",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94857,
+          52.3529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Sloterdijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83778,
+          52.3888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Amsterdam Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87166,
+          52.3388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Anna Paulowna",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8111,
+          52.8672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Apeldoorn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97028,
+          52.2091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Apeldoorn De Maten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00055,
+          52.2052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Apeldoorn Osseveld",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00444,
+          52.2152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Appingedam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86195,
+          53.3258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Arkel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.99278,
+          51.8719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Arnemuiden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.66917,
+          51.5016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Arnhem Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89916,
+          51.985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Arnhem Presikhaaf",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.94389,
+          51.988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Arnhem Velperpoort",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91944,
+          51.9852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Arnhem Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85194,
+          51.9549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Assen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57082,
+          52.9916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Baarn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28082,
+          52.2083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Baflo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51855,
+          53.3608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Barendrecht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55333,
+          51.8547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Barneveld Centrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59027,
+          52.1399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Barneveld Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59804,
+          52.1613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Barneveld Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.60252,
+          52.1286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bedum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59226,
+          53.3068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Beek-Elsloo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.78666,
+          50.9475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Beesd",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19444,
+          51.8994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Beilen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5211,
+          52.8547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bergen op Zoom",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2961,
+          51.4938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Best",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38916,
+          51.5099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Beverwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65666,
+          52.4783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bilthoven",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.20388,
+          52.1299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Blerick",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15499,
+          51.3725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bloemendaal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.62749,
+          52.4041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bodegraven",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7461,
+          52.0813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Borne",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74805,
+          52.2988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Boskoop",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64694,
+          52.0777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bovenkarspel Flora",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.25277,
+          52.6961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bovenkarspel-Grootebroek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.23777,
+          52.6949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Boxmeer",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93902,
+          51.6445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Boxtel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.31777,
+          51.5849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Breda",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78,
+          51.5955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Breda-Prinsenbeek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72082,
+          51.6063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Breukelen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.99083,
+          52.1697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Brummen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14694,
+          52.0911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Buitenpost",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14464,
+          53.2564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bunde",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73666,
+          50.8969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bunnik",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19445,
+          52.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Bussum Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.16306,
+          52.2658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Naarden-Bussum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.15695,
+          52.2802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Capelle Schollevaar",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.58416,
+          51.9541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Castricum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65861,
+          52.5458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Chevremont",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.05971,
+          50.8761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Coevorden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73554,
+          52.6636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Cuijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87429,
+          51.7266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Culemborg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.22694,
+          51.9466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Daarlerveen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57599,
+          52.4407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dalen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75805,
+          52.6941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dalfsen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25861,
+          52.4983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Veenendaal-De Klomp",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57388,
+          52.0458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Deinum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72815,
+          53.1888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Delden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7161,
+          52.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Delft",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35686,
+          52.007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Delfzijl",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92407,
+          53.3336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Delfzijl West",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9069,
+          53.332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Dolder",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.24277,
+          52.1402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Haag Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.325,
+          52.0802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Haag HS",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.32249,
+          52.0697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Haag Laan v NOI",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34278,
+          52.0786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Haag Mariahoeve",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36944,
+          52.0905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Haag Moerwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.30861,
+          52.0538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Haag Ypenburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39221,
+          52.0552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Helder",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7611,
+          52.9552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Den Helder Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76416,
+          52.9325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Deurne",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.78889,
+          51.4558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Deventer",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16056,
+          52.2575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Deventer Colmschate",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.21444,
+          52.2502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Didam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1324,
+          51.9334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Diemen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.96555,
+          52.3458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Diemen Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95584,
+          52.3302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dieren",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.10305,
+          52.045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hemmen-Dodewaard",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.67372,
+          51.9222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Doetinchem",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29621,
+          51.9585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Doetinchem De Huet",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25984,
+          51.9591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dordrecht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66832,
+          51.8072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dordrecht Stadspolders",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71666,
+          51.8019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dordrecht Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.67138,
+          51.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Driebergen-Zeist",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2586,
+          52.0652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Driehuis",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63806,
+          52.4424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dronryp",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63473,
+          53.1778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Dronten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72131,
+          52.5343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Duiven",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01472,
+          51.9433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Duivendrecht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93638,
+          52.3233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Echt",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87888,
+          51.1005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Ede Centrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.66833,
+          52.0436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Ede-Wageningen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.67305,
+          52.0277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Eijsden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.70999,
+          50.7719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Eindhoven Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.48138,
+          51.4433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Eindhoven Stadion",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46888,
+          51.4427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Elst",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.855,
+          51.9169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Emmen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.89944,
+          52.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Emmen Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87478,
+          52.7488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Voorst-Empe",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14361,
+          52.1575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Enkhuizen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28638,
+          52.6991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Enschede",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88999,
+          52.2224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Enschede De Eschmarke",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9511,
+          52.2213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Ermelo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61472,
+          52.3016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Etten-Leur",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63582,
+          51.575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Eygelshoven",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.045,
+          50.8905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Eygelshoven Markt",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06024,
+          50.896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Franeker",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5483,
+          53.1824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Gaanderen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.34758,
+          51.9312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Geldermalsen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27111,
+          51.8827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Geldrop",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55055,
+          51.4197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Geleen Oost",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84305,
+          50.9669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Geleen-Lutterade",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82472,
+          50.9755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Glanerbrug",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97444,
+          52.2186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Goes",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.89056,
+          51.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Goor",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58444,
+          52.2302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Gorinchem",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.96833,
+          51.8338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Gouda",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70443,
+          52.0175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Gouda Goverwelle",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74083,
+          52.015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Gramsbergen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67582,
+          52.6091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Grijpskerk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.30977,
+          53.2557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Groningen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56472,
+          53.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Groningen Europapark",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58529,
+          53.2049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Groningen Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.55631,
+          53.2301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Grou-Jirnsum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82249,
+          53.0888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Haarlem",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63833,
+          52.3877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Haarlem Spaarnwoude",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.67305,
+          52.3827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Halfweg-Zwanenburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7512,
+          52.3846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hardenberg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62861,
+          52.5727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Harderwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61972,
+          52.3375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Boven-Hardinxveld",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87805,
+          51.8322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hardinxveld Blauwe Zoom",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81555,
+          51.8294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hardinxveld-Giessendam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83583,
+          51.8305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Haren",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61722,
+          53.1761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Harlingen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42519,
+          53.1704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Harlingen Haven",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41128,
+          53.1749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heemskerk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.68693,
+          52.4952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heemstede-Aerdenhout",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.60667,
+          52.3591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heerenveen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91417,
+          52.9613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heerenveen IJsstadion",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.94388,
+          52.9352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heerhugowaard",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82277,
+          52.6697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heerlen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97499,
+          50.8908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heerlen De Kissel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99333,
+          50.8901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heerlen Woonboulevard",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95246,
+          50.896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heeze",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56943,
+          51.385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Horst-Sevenum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04222,
+          51.4263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heiloo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70055,
+          52.5994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Heino",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.22111,
+          52.4272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Helmond",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.66193,
+          51.4755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Helmond 't Hout",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63138,
+          51.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Helmond Brandevoort",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.60721,
+          51.4622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Helmond Brouwhuis",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.70332,
+          51.4702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hengelo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79388,
+          52.2616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hengelo Gezondheidspark",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76804,
+          52.2616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hengelo Oost",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81944,
+          52.2688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hillegom",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.56555,
+          52.3024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hilversum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18136,
+          52.2263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hilversum Mediapark",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1739,
+          52.2379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hilversum Sportpark",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18722,
+          52.2161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hindeloopen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42306,
+          52.9464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoensbroek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93056,
+          50.9055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoevelaken",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45831,
+          52.1664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hollandsche Rading",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.17916,
+          52.1777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Holten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.42027,
+          52.2838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoofddorp",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70055,
+          52.2933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoogeveen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4736,
+          52.7338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoogezand-Sappemeer",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77075,
+          53.1598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Martenshoek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74029,
+          53.1607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoogkarspel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18388,
+          52.6905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoorn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.05555,
+          52.6447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hoorn Kersenboogerd",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08555,
+          52.6536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Houten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.16749,
+          52.035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Houten Castellum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.17927,
+          52.0172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Houthem-St Gerlach",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79722,
+          50.8733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Hurdegaryp",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93454,
+          53.2187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "IJlst",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61607,
+          53.0146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Kampen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92166,
+          52.5597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Kampen Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91326,
+          52.533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Kapelle-Biezelinge",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.95611,
+          51.4808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Kerkrade Centrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0575,
+          50.8616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Kesteren",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58334,
+          51.9313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Klarenbeek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0836,
+          52.178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Krabbendijke",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.11695,
+          51.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Krommenie-Assendelft",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76123,
+          52.4945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Kropswolde",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72208,
+          53.1617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Kruiningen-Yerseke",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.03722,
+          51.4649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Lage Zwaluwe",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66305,
+          51.6911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Landgraaf",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01916,
+          50.8963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Leerdam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.09138,
+          51.8947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Leeuwarden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79222,
+          53.1958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Leeuwarden Achter De Hoven",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.81895,
+          53.1993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Leeuwarden Camminghaburen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84229,
+          53.2021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "De Vink",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45638,
+          52.1472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Leiden Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.48167,
+          52.1661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Leiden Lammenschans",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.49249,
+          52.1469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Lelystad Centrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47278,
+          52.5077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Lichtenvoorde-Groenlo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59462,
+          52.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Lochem",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.42639,
+          52.1666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Loppersum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74725,
+          53.3347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Lunteren",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.62444,
+          52.0852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Maarheeze",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63034,
+          51.3037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Maarn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36999,
+          52.0641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Maarssen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0336,
+          52.1352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Maastricht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.70556,
+          50.8502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Maastricht Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71762,
+          50.8708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Maastricht Randwyck",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71722,
+          50.8386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Mantgum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71319,
+          53.1296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "MariÃ«nberg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57527,
+          52.5094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Meerssen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75059,
+          50.8826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Meppel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.19749,
+          52.6908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Middelburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.61722,
+          51.4947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Koudum-Molkwerum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41079,
+          52.9025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Mook Molenhoek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8778,
+          51.764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nieuw Amsterdam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8486,
+          52.7186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nieuw Vennep",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64556,
+          52.2588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nieuwerkerk a/d IJssel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.61695,
+          51.9652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nieuweschans",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20036,
+          53.1847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijkerk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49388,
+          52.2222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijmegen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85243,
+          51.8434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijmegen Dukenburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79555,
+          51.8241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijmegen Goffert",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82238,
+          51.8272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijmegen Heyendaal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86749,
+          51.8269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijmegen Lent",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85944,
+          51.8652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijverdal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46287,
+          52.3663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nijverdal West",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44927,
+          52.367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nunspeet",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.78527,
+          52.3708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Nuth",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89278,
+          50.9194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Obdam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90721,
+          52.678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Oisterwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19417,
+          51.5822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Oldenzaal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93472,
+          52.3063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Olst",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11306,
+          52.3347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Ommen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.41583,
+          52.5094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Oosterbeek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84,
+          51.9949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Opheusden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63711,
+          51.9261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Oss",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53222,
+          51.7655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Oss West",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.50554,
+          51.758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Oudenbosch",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.53333,
+          51.5877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Overveen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6061,
+          52.3911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Purmerend",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9536,
+          52.503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Purmerend Overwhere",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.96833,
+          52.5113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Purmerend Weidevenne",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.93563,
+          52.4965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Putten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57527,
+          52.2649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Raalte",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.27749,
+          52.3916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Klimmen-Ransdaal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89055,
+          50.8663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Ravenstein",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63582,
+          51.7941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Reuver",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07896,
+          51.2832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rheden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03055,
+          52.0099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rhenen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57832,
+          51.9586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Gilze-Rijen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9261,
+          51.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rijssen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.52028,
+          52.3122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rijswijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31917,
+          52.0397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rilland-Bath",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.16111,
+          51.4227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Roermond",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99416,
+          51.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Roodeschool",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76061,
+          53.4192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Roosendaal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45833,
+          51.5402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rosmalen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36805,
+          51.7147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rotterdam Alexander",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5536,
+          51.9519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rotterdam Blaak",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.48888,
+          51.9202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rotterdam Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.46888,
+          51.9249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rotterdam Lombardijen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.53138,
+          51.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rotterdam Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.48166,
+          51.9422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rotterdam Stadion",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.51971,
+          51.8938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Rotterdam Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.51028,
+          51.9044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Ruurlo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44926,
+          52.081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Santpoort Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6325,
+          52.4338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Santpoort Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63138,
+          52.4197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sappemeer Oost",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79556,
+          53.1589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sauwerd",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.54028,
+          53.292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Schagen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80527,
+          52.7844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Scheemda",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97777,
+          53.1655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Schiedam Centrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4096,
+          51.9218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Schin op Geul",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87222,
+          50.8563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Schinnen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87444,
+          50.9391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Schiphol Airport",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76194,
+          52.3094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sittard",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85861,
+          51.0016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sliedrecht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77832,
+          51.8297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sliedrecht Baanhoek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74333,
+          51.8297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sneek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65239,
+          53.0328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sneek Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.66318,
+          53.0409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Soest",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.31,
+          52.1733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Soest Zuid",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.30305,
+          52.1652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Soestdijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.29999,
+          52.1836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Spaubeek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85166,
+          50.943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Stavoren",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36001,
+          52.8865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Stedum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.68755,
+          53.3262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Steenwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11456,
+          52.7915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Susteren",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86305,
+          51.0613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Swalmen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03081,
+          51.2349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Tegelen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13841,
+          51.3363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Terborg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36424,
+          51.9224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Tiel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42222,
+          51.8894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Tiel Passewaaij",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39222,
+          51.8738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Tilburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08361,
+          51.5605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Tilburg Reeshof",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.99445,
+          51.5736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Tilburg Universiteit",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0511,
+          51.565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Twello",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09861,
+          52.2377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Uitgeest",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70166,
+          52.5216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Uithuizen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67488,
+          53.4099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Uithuizermeeden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72029,
+          53.4145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Usquert",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60937,
+          53.4014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Centraal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11028,
+          52.0888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Leidsche Rijn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0651,
+          52.0989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Maliebaan",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.13138,
+          52.0877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Overvecht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.12471,
+          52.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Terwijde",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0436,
+          52.1002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Zuilen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0836,
+          52.1066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Valkenburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83222,
+          50.8697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Varsseveld",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.45884,
+          51.9372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Veendam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88701,
+          53.1051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Veenendaal Centrum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5486,
+          52.0199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Veenendaal West",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53138,
+          52.028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Velp",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.98027,
+          51.9947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Venlo",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17278,
+          51.3636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Venray",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01417,
+          51.5265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vierlingsbeek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99601,
+          51.5934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vleuten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.01082,
+          52.103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vlissingen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.59527,
+          51.4458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vlissingen Souburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.59527,
+          51.4647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Voerendaal",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93027,
+          50.8872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Voorburg",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35943,
+          52.0666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Voorhout",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.48443,
+          52.2244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Voorschoten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.43249,
+          52.1252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vorden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.31704,
+          52.1071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vriezenveen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60152,
+          52.401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vroomshoop",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56966,
+          52.4571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Vught",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.29194,
+          51.6555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Waddinxveen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64971,
+          52.0441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Waddinxveen Noord",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64833,
+          52.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Warffum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56712,
+          53.3908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Sassenheim",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.51786,
+          52.2154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Weert",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.70361,
+          51.2486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Weesp",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04305,
+          52.3127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wehl",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.21384,
+          51.9578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Westervoort",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.96926,
+          51.9629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wezep",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00249,
+          52.4541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wierden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59167,
+          52.3613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wijchen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73083,
+          51.8116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wijhe",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14054,
+          52.3902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Winschoten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03509,
+          53.1392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Winsum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.52028,
+          53.3301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Winterswijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71551,
+          51.9677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Winterswijk West",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70292,
+          51.9754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Woerden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8936,
+          52.085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wolfheze",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7936,
+          52.0055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wolvega",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0036,
+          52.8808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Workum",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45642,
+          52.9724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Wormerveer",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79221,
+          52.4891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zaandam",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81361,
+          52.4388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zaandam Kogerveld",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82027,
+          52.4566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zaltbommel",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.26332,
+          51.8088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zandvoort aan Zee",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.53278,
+          52.3752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zetten-Andelst",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72284,
+          51.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zevenaar",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07194,
+          51.923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zevenbergen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.60972,
+          51.6411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zoetermeer",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47722,
+          52.0474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zoetermeer Oost",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.49278,
+          52.0463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zuidbroek",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8679,
+          53.1596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zuidhorn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.40657,
+          53.2482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zutphen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.19441,
+          52.1449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zwijndrecht",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64166,
+          51.815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zwolle",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09195,
+          52.5047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Eindhoven Strijp-S",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45583,
+          51.4511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "De Westereen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03548,
+          53.2483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Feanwalden",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.98969,
+          53.2351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Enschede Kennispark",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83888,
+          52.2375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Lunetten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.14417,
+          52.0655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "s-Hertogenbosch",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.29361,
+          51.6905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "s-Hertogenbosch Oost",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3183,
+          51.7005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "t Harde",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89361,
+          52.4091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Aalten",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57861,
+          51.9213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Almere Poort",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.15218,
+          52.3427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Utrecht Vaartsche Rijn",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.12127,
+          52.0788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Koog aan de Zaan",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80556,
+          52.4586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zaandijk Zaanse Schans",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80499,
+          52.4691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Boskoop Snijdelwijk",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64631,
+          52.0673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Lansingerland-Zoetermeer",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.51849,
+          52.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Delft Campus",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36471,
+          51.9908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faca30",
+        "Station": "Zwolle Stadshagen",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.05149,
+          52.5276
+        ]
+      }
+    }
+  ]
+}
