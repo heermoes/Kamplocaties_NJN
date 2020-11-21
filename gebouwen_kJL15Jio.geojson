@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "etag": "c205ac747c7b0f493db5560fbbd01a32",
+  "features": [
+    {
+      "id": "chOl95hQotJ5sZCc",
+      "type": "Feature",
+      "properties": {
+        "Site": "www.njn.nl",
+        "Prijs": "2000 euries",
+        "Plaats": "Abcoude",
+        "Kampboer": "Commater",
+        "Extra info": "",
+        "Contactgegevens": "Hb@njn.nl",
+        "@ns:com:here:xyz": {
+          "tags": [
+            "map_(1)"
+          ],
+          "space": "kJL15Jio",
+          "createdAt": 1583526688150,
+          "updatedAt": 1589448451368
+        },
+        "Naam Kampterrein": "Landelijke Ruimte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.97895759,
+          52.26085861,
+          0
+        ]
+      }
+    }
+  ]
+}
