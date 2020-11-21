@@ -5,6 +5,9 @@
       "id": "QbjqDbckPudPjsb5",
       "type": "Feature",
       "properties": {
+        "marker-color": "#11924f",
+        "marker-size": "medium",
+        "marker-symbol": "embassy",
         "Site": "www.zuidhollandslandschap.nl/activiteiten/kampeerterrein-duinen-van-oostvoorne",
         "Prijs": "onbekend",
         "Plaats": "Oostvoorne",
