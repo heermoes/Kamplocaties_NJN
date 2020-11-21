@@ -1,33 +1,21 @@
 {
   "type": "FeatureCollection",
-  "etag": "e0044435410931747a667196991e7b99",
   "features": [
     {
-      "id": "PNMaAy0OzyiaNdWa",
       "type": "Feature",
       "properties": {
-        "": "",
         "Site": "www.leden.njn.nl",
         "Prijs": "2000 euries",
         "Plaats": "Spreekt voor zich",
         "Extra info": "ppap",
         "Naam Peutboer": "Peueueheut",
-        "@ns:com:here:xyz": {
-          "tags": [
-            "map_(2)"
-          ],
-          "space": "2ajoeVDj",
-          "createdAt": 1583526987747,
-          "updatedAt": 1583527060718
-        },
         "Contactgegevens ": "voorbeeld@voorbeeld.nl"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           5.45019669,
-          52.39913028,
-          0
+          52.39913028
         ]
       }
     }
