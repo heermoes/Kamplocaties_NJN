@@ -1,6 +1,5 @@
 {
   "type": "FeatureCollection",
-  "etag": "d5c51bd9040a1b7542ab8769cbd3e1f7",
   "features": [
     {
       "id": "QbjqDbckPudPjsb5",
@@ -8,27 +7,17 @@
       "properties": {
         "Site": "www.zuidhollandslandschap.nl/activiteiten/kampeerterrein-duinen-van-oostvoorne",
         "Prijs": "onbekend",
-        "color": "F4290C",
         "Plaats": "Oostvoorne",
         "Kampboer": "Zuid-Hollands Landschap",
         "Extra info": "Voor een zoka is afval een groot probleem, de kampboer zamelt het niet in, je moet zelf op zoek naar een prullenbak.",
         "Contactgegevens": "regio-eilanden@zhl.nl",
-        "@ns:com:here:xyz": {
-          "tags": [
-            "map"
-          ],
-          "space": "NSuGuWwr",
-          "createdAt": 1583526031499,
-          "updatedAt": 1583526316822
-        },
         "Naam Kampterrein": "Kampeerterrein Duinen van Oostvoorne"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           4.07261395,
-          51.90670964,
-          0
+          51.90670964
         ]
       }
     }
